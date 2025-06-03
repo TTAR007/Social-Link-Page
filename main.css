@@ -10,7 +10,7 @@
 
 body {
     background-color: hsl(0, 0%, 8%);
-    height: 100vh;
+    height: 600px;
 
     display: flex;
     flex-direction: column;
